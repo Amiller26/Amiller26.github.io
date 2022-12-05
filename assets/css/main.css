@@ -1819,6 +1819,10 @@ input, select, textarea {
 					width: 48px;
 				}
 
+				ul.social li a.fa-envelope {
+					background-color: #FAFAFA;
+				}
+
 				ul.social li a.fa-twitter {
 					background-color: #2DAAE4;
 				}
